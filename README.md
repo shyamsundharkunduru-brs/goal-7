@@ -2,22 +2,15 @@
 
 # --------------THE SPACEX-SHOP PROJECT------------------
 
-This repository contains information and resources related to the SpaceX project. SpaceX is a private aerospace manufacturer and space transportation company founded by Elon Musk in 2002. The company's goal is to reduce space transportation costs and enable the colonization of Mars.
+In this project I used technologies like HTML and CSS to clone the graphical user interface of the website of spacex shop ...
 
-# ---------------- FEATURES OF SPACEX-SHOP ---------------
-
-1. The user can see the list of all ships currently in space and details about each ship.
-2. The user can select a specific ship and view its status (i.e. whether it is "Active" or "Inactive")
-3. The user should be able to add new ships to the database by filling out an appropriate form on our site.
-4. The user will also have access to edit any information they wish for their selected ship from this page too!
 
 # ------------------ ABOUT THE PROJECT---------------------
 
 1. This project was built using the Bootstrap library along with Redux for state management.
-2. We used the React Router Dom package for routing purposes.
-3. We used HTML for a skeleton to develop
-4. We used CSS for styling.
-5. We used mostly bootstrap templates for buttons, image sizing, etc...
+2. We used HTML for a skeleton to develop
+3. We used CSS for styling.
+4. We used mostly bootstrap templates for buttons, image sizing, etc...
 
 # --------------------- LEARNED IN THIS PROJECT ----------------------
 
